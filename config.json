@@ -1,0 +1,22 @@
+{
+    "token": "",
+    "prefix": "!",
+    "ownerID": "",
+    "mongoPath": "",
+    "defaultSettings": {
+        "prefix": "!",
+        "modLogChannel": "mod-log",
+        "modRole": "Moderator",
+        "adminRole": "Administrator",
+        "systemNotice": "true",
+        "welcomeChannel": "welcome",
+        "welcomeMessage": "Say hello to {{user}}, everyone! We all need a warm welcome sometimes :D",
+        "welcomeEnabled": "false"
+    },
+    "dashboard": {
+        "oauthSecret":  "",
+        "sessionSecret": "",
+        "domain": "",
+        "port": 80
+    }
+}
