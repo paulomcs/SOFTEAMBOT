@@ -6,7 +6,7 @@
     "defaultSettings": {
         "prefix": "!",
         "modLogChannel": "mod-log",
-        "modRole": "Moderator",
+        "modRole": "Moderador",
         "adminRole": "Administrator",
         "systemNotice": "true",
         "welcomeChannel": "Bem Vindo",
